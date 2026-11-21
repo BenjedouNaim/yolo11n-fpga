@@ -1,0 +1,12 @@
+﻿.venv/
+.pip-cache/
+.tmp/
+__pycache__/
+cpp_ref/build/
+data/weights/
+data/golden/
+*.pt
+hls/tb/build/
+hls/proj_conv_ip_*/
+*.log
+data/quant/
